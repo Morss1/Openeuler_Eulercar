@@ -1,0 +1,4 @@
+source;share/fdilink_ahrs/hook/cmake_prefix_path.dsv
+source;share/fdilink_ahrs/hook/cmake_prefix_path.sh
+source;share/fdilink_ahrs/local_setup.dsv
+source;share/fdilink_ahrs/local_setup.sh
